@@ -1,15 +1,14 @@
 ### Hi there 👋
 - 🔭 I’m Maithilee Vaidya, a Software Developer/Full Stack Developer. I am from Maharashtra, India and am looking for work. 
-- 👯 Tell me how I can help you, I will try my best!  
-- 📫 Let's Connect - 
--   [LinkedIn](www.linkedin.com/in/maithilee-vaidya)
--   [Mail](maithileev@gmail.com)
+- 👯 Tell me how I can help you  
+
+
 <!--
 **maithileev/maithileev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-
+-   [LinkedIn](www.linkedin.com/in/maithilee-vaidya)
+-   [Mail](maithileev@gmail.com)
 - 🌱 I’m currently learning ...
 -  I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
