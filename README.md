@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m Maithilee Vaidya, a Software Developer/Full Stack Developer. I am from Maharashtra, India and am looking for work. 
+- 📫 How to reach me: -
 <!--
 **maithileev/maithileev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
