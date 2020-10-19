@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m Maithilee Vaidya, a Software Developer/Full Stack Developer. I am from Maharashtra, India and am looking for work. 
-- 📫 How to reach me: -
+- 📫 How to reach me: - 
+![linkedin-box-fill](https://user-images.githubusercontent.com/32967517/96509713-13a7b480-127a-11eb-935c-132f74f8fc7d.png)[1]
 <!--
 **maithileev/maithileev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[1]: www.linkedin.com/in/maithilee-vaidya
