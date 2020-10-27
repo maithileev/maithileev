@@ -1,5 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m Maithilee Vaidya, a Software Developer/Full Stack Developer. I am from Maharashtra, India and am looking for work. 
+- 🌱 I’m currently working on Angular and Spring Boot
+-  :sparkles: [Calculator using React]() 
 - 👯 Tell me how I can help you  
 
 
