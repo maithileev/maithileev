@@ -3,7 +3,7 @@
 - 🌱 I’m currently working on Angular and Spring Boot
 -  :sparkles: [Angular Demo](https://maithileev.github.io/AngularDemo/) 
 -  :sparkles: [Calculator using React](https://maithileev.github.io/Calculator/) 
-- 👯 Tell me how I can help you  
+- 👯 Let's get in touch! Tell me how I can help you  
 
 
 <!--
