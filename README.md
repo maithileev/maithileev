@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m Maithilee Vaidya, a Full Stack Developer. 
-- 🌱 I’m currently working on Angular and Spring Boot
+- 🔭 I’m Maithilee Vaidya, a Full Stack Developer, a student.
+- 🌱 I’m currently a student at RPTU Kaiserslautern
 -  :computer: Demo Projects
     -  :sparkles: [Angular Demo](https://maithileev.github.io/AngularDemo/) 
     -  :sparkles: [Calculator using React](https://maithileev.github.io/Calculator/) 
